@@ -17,7 +17,6 @@ Examples:
 ```
 ### 2.HTTP Methods (How we work with resources)
 REST uses existing HTTP methods to say what we want to do with a resource.
-```
 | Method | Meaning              |
 | ------ | -------------------- |
 | GET    | Read data            |
@@ -25,7 +24,6 @@ REST uses existing HTTP methods to say what we want to do with a resource.
 | PUT    | Update existing data |
 | PATCH  | Update part of data  |
 | DELETE | Remove data          |
-```
 ### 3.HTTP Status Codes (How server replies)
 The server uses status codes to tell the result of a request.
 ##### Main groups:
